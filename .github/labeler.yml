@@ -1,0 +1,21 @@
+backend:
+  - 'server/**'
+  - '**/*.js'
+  - '**/*.ts'
+  - '**/*.py'
+
+frontend:
+  - 'client/**'
+  - '**/*.html'
+  - '**/*.css'
+  - '**/*.jsx'
+  - '**/*.tsx'
+
+documentation:
+  - '**/*.md'
+  - 'docs/**'
+
+config:
+  - '**/*.yaml'
+  - '**/*.yml'
+  - '**/*.json'
